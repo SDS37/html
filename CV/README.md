@@ -1,3 +1,3 @@
 ## HTML CV
 
-HTML page that uses CSS
+Basic HTML page that uses CSS
